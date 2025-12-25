@@ -16,11 +16,11 @@ It is **not a therapist or medical professional**, but offers gentle reflections
 
 ## 📂 Project Structure
 SoulSync AI/ │ ├── server.py        
-# Flask backend with AI pipeline ├── static/ │   ├── index.html   
-# Frontend UI │   ├── styles.css   
-# Gradient theme styling │   └── app.js       
-# Chat logic (fetches backend replies) └── README.md        
-# Project documentation
+Flask backend with AI pipeline ├── static/ │   ├── index.html   
+Frontend UI │   ├── styles.css   
+Gradient theme styling │   └── app.js       
+Chat logic (fetches backend replies) └── README.md        
+Project documentation
 
 ---
 
@@ -59,3 +59,4 @@ If you or someone you know is struggling, please reach out to a trusted person o
 
 💡 Credits
 Made with ❤️ by Priyanka
+
